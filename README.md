@@ -1,13 +1,13 @@
 ### Task
 
-Implement File Converter that is able to convert from **any** to **any** other format. For example:
+Implement File Converter that is able to convert from **any** to **any** format. For example:
 
 * `csv` to `json`
 * `json` to `xml`
 
 and so on.
 
-As a result of implementation, you need to have a working File Converter ready to be used from as a CLI application.
+As a result of the implementation, you need to have a working File Converter ready to be used as a CLI application.
 
 All tests should pass.
 
@@ -16,6 +16,8 @@ All tests should pass.
 Run
 
 ```bash
+# clone the repo and run inside it
+
 composer install
 ```
 
